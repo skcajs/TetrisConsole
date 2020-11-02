@@ -1,0 +1,3 @@
+﻿  TetrisConsole.cpp
+C:\Users\Sam\Documents\Code\TetrisConsole\TetrisConsole.cpp(23): warning C4715: 'Rotate': not all control paths return a value
+  TetrisConsole.vcxproj -> C:\Users\Sam\Documents\Code\TetrisConsole\x64\Debug\TetrisConsole.exe

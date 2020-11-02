@@ -1,0 +1,2 @@
+C:\Users\Sam\Documents\Code\TetrisConsole\Debug\TetrisConsole.exe
+C:\Users\Sam\Documents\Code\TetrisConsole\Debug\TetrisConsole.pdb
